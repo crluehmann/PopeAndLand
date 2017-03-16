@@ -1,0 +1,31 @@
+Pre-2.0 - Dustin Bolton
+	See history_archived.txt for older history information.
+2.0.0 - 2010-02-12 - Dustin Bolton
+	Complete overhaul with a multitude of features & enhancements.
+2.0.1 - 2010-04-27 - Dustin Bolton
+	File permissions warning on some servers on the Server Information page.
+	Fatal error on some servers on the Server Information page.
+	Update to 2.0 handles importbuddy password migration in a more stable way.
+	Added ZIP backup serial to reported details during backup.
+	Fixed import link on Getting Started page.
+2.0.2 - 2010-04-29 - Dustin Bolton
+	Removed hover to show select destination / edit links for remote destinations.
+	Changed README.txt to readme.txt.
+	Fixed importbuddy incorrectly reporting extraction failure in fallback modes.
+	Fixed directory exclusions failing in some environments.
+	Fixed database table escaping during backups.
+	Fixed database rewrites in importbuddy.
+2.0.3 - 2010-05-02 - Dustin Bolton
+	Fixed problem with scheduled events not firing.
+2.0.4 - 2010-05-02 - Dustin Bolton
+	importbuddy.php now excluded from root of backups.
+	Editing a full schedule auto-selected database only.
+	Added readme.txt file for Rackspace testing.
+2.0.5 - 2010-05-02 - Dustin Bolton
+	Significantly improved compatibility with Alternate WP Cron system. define('ALTERNATE_WP_CRON', true);
+	Removed false error message on scheduled backups with no remote destinations.
+2.0.6 - 2010-05-03 - Dustin Bolton
+	Improved directory exclusion migration from pre-2.0 to post-2.0.
+	Added additional index check for adding remote destinations to prevent unkeyed indices.
+2.0.7 - 2010-05-04 - Dustin Bolton
+	Added additional alternate cron checks to avoid header already sent warnings on backup page.

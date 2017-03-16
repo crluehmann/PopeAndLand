@@ -1,0 +1,261 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201703 will be lost/reset.
+# Last config file used to build this data file was /home/popeandland/tmp/awstats/awstats.cityparkcharlotte.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2021                
+POS_TIME 2703                
+POS_VISITOR 3368                
+POS_DAY 3522                
+POS_DOMAIN 3669                
+POS_LOGIN 3895                
+POS_ROBOT 4050                
+POS_WORMS 4182                
+POS_EMAILSENDER 4313                
+POS_EMAILRECEIVER 4456                
+POS_SESSION 4532                
+POS_SIDER 4692                
+POS_FILETYPES 5029                
+POS_DOWNLOADS 5157                
+POS_OS 5205                
+POS_BROWSER 5303                
+POS_SCREENSIZE 5406                
+POS_UNKNOWNREFERER 5480                
+POS_UNKNOWNREFERERBROWSER 5609                
+POS_ORIGIN 5733                
+POS_SEREFERRALS 5864                
+POS_PAGEREFS 6008                
+POS_SEARCHWORDS 6156                
+POS_KEYWORDS 6308                
+POS_MISC 2366                
+POS_ERRORS 6367                
+POS_CLUSTER 3751                
+POS_SIDER_404 6461                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170315050757 181 34349 9317211142054
+FirstTime 20170314052402
+LastTime 20170314053919
+LastUpdate 20170315052236 181 0 181 0 0
+TotalVisits 2                   
+TotalUnique 2                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 2                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 15 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 4 4 0
+1 0 0 0 1 3 0
+2 0 0 0 1 1 0
+3 0 0 0 6 7 0
+4 0 0 0 1 1 0
+5 15 20 60680 9 25 0
+6 0 0 0 8 9 0
+7 0 0 0 14 14 0
+8 0 0 0 6 7 0
+9 0 0 0 11 13 0
+10 0 0 0 6 6 0
+11 0 0 0 4 10 0
+12 0 0 0 3 5 0
+13 0 0 0 3 4 0
+14 0 0 0 4 7 0
+15 0 0 0 9 11 0
+16 0 0 0 2 4 0
+17 0 0 0 3 3 0
+18 0 0 0 1 2 0
+19 0 0 0 3 3 0
+20 0 0 0 5 5 0
+21 0 0 0 1 2 0
+22 0 0 0 11 11 0
+23 0 0 0 3 4 0
+END_TIME
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 2
+107.208.132.241 11 16 58018 20170314053919
+107.180.40.150 4 4 2662 20170314053857
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 1
+20170314 15 20 60680 2
+END_DAY
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+us 15 20 60680
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+15mn-30mn 1
+5mn-15mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 6
+/wp-login.php 10 11467 1 0
+/deleteme.chahvzxb.php 1 1331 1 0
+/ 1 2296 0 1
+/deleteme.eea6865372c94a55a129401ee27d5d23.php 1 0 0 1
+/deleteme.998ba2d3a7004df1b637ffe70964fa2e.php 1 0 0 0
+/deleteme.chaskezq.php 1 1331 0 0
+END_SIDER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+png 1 4867 0 0
+html 1 2296 0 0
+php 14 14129 0 0
+css 4 39388 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 3
+win7 2 2
+winnt 16 11
+Unknown 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 3
+chrome56.0.2924.87 16 11
+Unknown 2 2
+firefox17.0 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Installatron_Plugin/9.1.28 20170314053857
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Installatron_Plugin/9.1.28 20170314053857
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 6 6
+From1 0 0
+From2 0 0
+From3 0 0
+From4 9 14
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+302 4 0
+404 139 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 18
+/ 63 -
+/robots.txt 10 -
+/wp-content/common.php.suspected 1 http://cityparkcharlotte.com/wp-content/common.php.suspected
+/wp-content/uploads/2013/04/Oxford-City-Park-Apartment-Elevation.pdf 1 -
+/xmlrpc.php 7 -
+/wp-content/plugins/wp-popup/readme.txt 1 -
+/contactys 1 http://ya.ru/
+/wp-includes/wlwmanifest.xml 1 -
+/wp-content/uploads/2013/04/City-Park-Master-Plan-with-overlay-4-24-13.pdf 1 -
+/feed/ 1 -
+/wp-content/uploads/2013/04/Retail-Floor-Plans.pdf 1 -
+/wp-login.php 28 -
+/hello-world/ 1 -
+/wp-content/uploads/2013/04/Norfolf-Southern-breaks-ground-5-2-12.pdf 2 -
+/whatiscitypark/ 12 -
+/wp-content/uploads/2013/04/United-Technologies-unit-to-create-325-jobs-in-Charlotte-613-12.pdf 1 -
+/wp-content/uploads/2013/04/Charlotte-Observer-Coliseum-1988-2007-resize.pdf 6 -
+//wp-content/plugins/mobile-app-builder-by-wappress/readme.txt 1 -
+END_SIDER_404

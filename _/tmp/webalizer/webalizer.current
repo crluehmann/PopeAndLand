@@ -1,0 +1,468 @@
+# Webalizer V2.23-05 Incremental Data - 03/15/2017 05:07:57
+2017 3 15 5 7 57
+181 35 62 12 18 39 60680 81 55 0
+10 2 43 14 15
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+163 35 60680 56 72 46
+18 0 0 10 9 9
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+4 0 0 3
+3 0 0 1
+1 0 0 1
+7 0 0 1
+1 0 0 1
+45 35 60680 8
+9 0 0 3
+14 0 0 7
+7 0 0 4
+13 0 0 6
+6 0 0 1
+10 0 0 3
+5 0 0 2
+4 0 0 3
+7 0 0 4
+11 0 0 9
+4 0 0 2
+3 0 0 3
+2 0 0 1
+3 0 0 3
+5 0 0 5
+2 0 0 1
+11 0 0 6
+4 0 0 3
+0
+0
+0
+35
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+142
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/wp-admin/css/colors-fresh.min.css
+0 1 0 6627 0 0
+/wp-admin/css/wp-admin.min.css
+0 1 0 23842 0 0
+/wp-includes/css/buttons.min.css
+0 1 0 1287 0 0
+/deleteme.998ba2d3a7004df1b637ffe70964fa2e.php
+0 1 0 0 0 0
+/deleteme.chaskezq.php
+0 1 0 1331 0 0
+/favicon.ico
+0 15 0 0 0 0
+/wp-content/themes/twentytwelve/style.css
+0 1 0 7632 0 0
+/wp-login.php
+0 10 0 11467 0 0
+/deleteme.chahvzxb.php
+0 1 0 1331 0 0
+/
+0 1 0 2296 45 15
+/wp-admin/images/wordpress-logo-2x.png
+0 1 0 4867 0 0
+/deleteme.eea6865372c94a55a129401ee27d5d23.php
+0 1 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+66.249.64.235
+0 4 0 0 3 1489552735
+/
+66.249.64.10
+0 1 0 0 1 1489480403
+/
+47.149.155.200
+0 5 0 0 0 0
+-
+42.236.99.16
+0 1 0 0 1 1489531166
+/
+83.71.247.37
+0 2 0 0 1 1489523951
+/
+185.173.178.25
+0 1 0 0 0 0
+-
+5.255.250.75
+0 1 0 0 0 0
+-
+59.96.86.164
+0 5 0 0 0 0
+-
+62.138.0.25
+0 7 0 0 4 1489521690
+/
+5.255.250.96
+0 1 0 0 0 0
+-
+107.208.132.241
+0 37 31 58018 1 1489470099
+/
+167.114.233.118
+0 2 0 0 1 1489473301
+/
+100.43.85.14
+0 1 0 0 1 1489481708
+/
+77.88.47.112
+0 1 0 0 0 0
+-
+46.229.164.101
+0 1 0 0 0 0
+-
+172.82.155.95
+0 1 0 0 1 1489500161
+/
+189.79.88.78
+0 5 0 0 0 0
+-
+64.120.30.138
+0 1 0 0 1 1489519031
+/
+140.95.226.7
+0 12 0 0 6 1489520681
+-
+5.196.87.36
+0 1 0 0 0 0
+-
+141.8.143.237
+0 2 0 0 2 1489512109
+/
+40.77.167.79
+0 1 0 0 0 0
+-
+101.255.32.42
+0 5 0 0 0 0
+-
+40.77.167.48
+0 7 0 0 2 1489531312
+/
+77.88.47.26
+0 2 0 0 1 1489508530
+-
+45.79.221.18
+0 1 0 0 1 1489498373
+/
+107.180.40.150
+0 4 4 2662 0 0
+-
+202.46.56.195
+0 1 0 0 1 1489539326
+/
+24.172.116.34
+0 3 0 0 1 1489483001
+/
+180.76.15.8
+0 2 0 0 0 0
+-
+105.98.65.173
+0 5 0 0 0 0
+-
+46.118.159.223
+0 5 0 0 2 1489504927
+/
+51.255.65.87
+0 1 0 0 1 1489472539
+/
+66.249.64.238
+0 1 0 0 1 1489526725
+/
+63.141.244.250
+0 1 0 0 0 0
+-
+5.157.52.247
+0 1 0 0 1 1489535638
+/
+141.8.143.158
+0 1 0 0 0 0
+-
+100.43.81.137
+0 1 0 0 0 0
+-
+195.154.189.48
+0 1 0 0 0 0
+-
+157.55.39.224
+0 1 0 0 0 0
+-
+5.255.250.80
+0 1 0 0 0 0
+-
+218.30.103.81
+0 2 0 0 1 1489516240
+/
+123.126.68.123
+0 1 0 0 1 1489477244
+/
+66.249.64.230
+0 1 0 0 0 0
+-
+66.249.64.172
+0 1 0 0 1 1489485443
+/
+195.242.80.18
+0 1 0 0 1 1489535117
+-
+46.165.197.142
+0 2 0 0 1 1489480720
+/
+66.249.64.227
+0 5 0 0 4 1489546602
+/
+35.163.165.205
+0 1 0 0 0 0
+-
+46.105.31.30
+0 1 0 0 1 1489537179
+/
+37.115.191.193
+0 4 0 0 2 1489506406
+/
+66.249.64.231
+0 5 0 0 4 1489554477
+/
+138.197.111.89
+0 1 0 0 1 1489502085
+/
+92.124.4.33
+0 5 0 0 0 0
+-
+180.76.15.19
+0 1 0 0 1 1489554274
+/
+180.76.15.156
+0 1 0 0 1 1489535326
+/
+68.180.228.187
+0 2 0 0 1 1489542255
+-
+180.76.15.18
+0 1 0 0 0 0
+-
+141.8.143.188
+0 1 0 0 0 0
+-
+176.8.251.60
+0 6 0 0 1 1489476732
+/
+5.61.32.58
+0 1 0 0 0 0
+-
+52.87.69.31
+0 1 0 0 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+66.249.64.235
+0 1 0 0 1 1489552735
+/
+202.46.56.195
+0 1 0 0 1 1489539326
+/
+180.76.15.8
+0 1 0 0 0 0
+-
+66.249.64.227
+0 3 0 0 2 1489546602
+/
+46.105.31.30
+0 1 0 0 1 1489537179
+/
+66.249.64.231
+0 2 0 0 2 1489554477
+/
+92.124.4.33
+0 5 0 0 0 0
+-
+180.76.15.19
+0 1 0 0 1 1489554274
+/
+68.180.228.187
+0 2 0 0 1 1489542255
+-
+180.76.15.18
+0 1 0 0 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://cityparkcharlotte.com
+0 2
+http://www.popeandland.com/properties/detail.aspx
+0 2
+http://cityparkcharlotte.com/
+0 2
+http://www.love-baby.cz/
+0 3
+- (Direct Request)
+0 122
+http://uptime.com/cityparkcharlotte.com
+0 1
+http://xn--80aodinpgi.xn--p1ai/
+0 1
+http://www.cityparkcharlotte.com/
+0 4
+http://cityparkcharlotte.com/wp-content/common.php.suspected
+0 1
+http://portomaltese.net/aviaradar/
+0 3
+http://bpro1.top/
+0 2
+http://ya.ru/
+0 1
+https://www.google.com
+0 2
+http://www.cityparkcharlotte.com/wp-login.php
+0 27
+http://electricwheelchairsarea.com/
+0 3
+http://www.cityparkcharlotte.com/wp-admin/css/wp-admin.min.css
+0 1
+http://www.cityparkcharlotte.com
+0 1
+http://running-line.ru/
+0 3
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.8) Gecko/20100721 Firefox/3.6.8
+0 2
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+0 1
+Jakarta Commons-HttpClient/3.1
+0 12
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/20100101 Firefox/17.0
+0 2
+Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)
+0 3
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:34.0) Gecko/20100101 Firefox/34.0
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36
+0 7
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 5
+Opera/7.54 (Windows NT 5.1; U)  [pl]
+0 4
+Mozilla/5.0 (Windows NT 6.1; rv:29.0) Gecko/20120101 Firefox/29.0
+0 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0); 360Spider
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 18
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 8
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; .NET CLR 1.1.4322)
+0 3
+Mozilla/5.0 (compatible; SemrushBot/1.2~bl; +http://www.semrush.com/bot.html)
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; MRA 4.9 (build 01863); InfoPath.1; .NET CLR 2.0.50727; .NET CLR 3.0.04506.
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows XP)
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1
+0 30
+Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6 (.NET CLR 2.0.50727; .NET CLR 3.0.45
+0 1
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.63 Safari/537.31
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0
+0 2
+Mozilla/5.0 (compatible; Uptimebot/1.0; +http://www.uptime.com/uptimebot)
+0 1
+Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ru) Opera 8.01
+0 3
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 12
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0
+0 1
+Mozilla/5.0 (Windows NT 6.0; rv:33.0) Gecko/20100101 Firefox/33.0
+0 1
+Installatron Plugin/9.1.28
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+0 37
+Mozilla/1.22 (compatible; MSIE 2.0d; Windows NT)
+0 2
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+0 1
+Opera/9.80 (Windows NT 6.2; Win64; x64) Presto/2.12.388 Version/12.17
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safa
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

@@ -1,0 +1,85 @@
+/* =custom-login.css - Custom style for login page
+-------------------------------------------------------------- */
+
+html, .wp-dialog {
+	background:#FFF;
+}
+
+.login {
+	border-top-width: 0;
+}
+
+#login {
+	width: 350px;
+	margin: 7em auto;
+}
+
+#loginform, #lostpasswordform  {
+    background-color: #111111;
+    color: #333333;
+	-moz-box-shadow:none;
+	box-shadow:none;
+	-webkit-box-shadow:none;
+    -moz-border-radius: 40px 0 40px 0;
+    border-radius: 40px 0 40px 0;
+}
+
+#loginform .input, #lostpasswordform .input {
+}
+
+#loginform #wp-submit, #lostpasswordform #wp-submit {
+    -moz-border-radius: 10px 0 10px 0;
+	border-radius: 10px 0 10px 0;
+    background:#347FDA;
+    color: #FFFFFF;
+}
+
+#loginform #wp-submit:hover, #lostpasswordform #wp-submit:hover {
+}
+
+#user_login, #user_pass, #user_email {
+	font-size: 20px;
+	width: 97%;
+	padding: 3px;
+	margin-right: 6px;
+	border-width: 1px;
+	border-style: solid;
+	-moz-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	-webkit-border-radius: 3px;
+}
+
+label{
+    color: #FFFFFF;
+}
+
+.forgotmenot {}
+
+#rememberme {}
+
+#nav {
+	margin: 0 0 0 8px;
+	padding: 16px;
+}
+
+#backtoblog {
+	text-align: center;
+}
+
+#backtoblog a {
+	position: relative;
+	text-decoration: none;
+	color: #777 !important;
+}
+
+#backtoblog a:hover {
+	position: relative;
+	text-decoration: none;
+	color: #333333 !important;
+}
+
+#login_error, .message {
+	margin: 0 0 16px 8px;
+	border-width: 1px solid #333333;
+	padding: 12px;
+}
